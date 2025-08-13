@@ -10,7 +10,7 @@ When you launch the program, the message is shown in console.
 n=
 ```
 
-Please input $n$ and press `Enter` key.
+Please input the value of $n$ and press `Enter` key.
 
 Then the message is shown:
 
@@ -18,7 +18,7 @@ Then the message is shown:
 l=
 ```
 
-Then please enter $l$ and `Enter`. Finally, the message is shown:
+Then please enter the value of $l$ and `Enter`. Finally, the message is shown:
 
 ```
 |m_l|=
